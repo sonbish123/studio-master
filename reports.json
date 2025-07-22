@@ -1,0 +1,41 @@
+[
+  {
+    "regionalOffice": "Phuentsholing Regional Office",
+    "otherOffice": "Phuentsholing",
+    "applicationDate": "2025-07-21T11:18:13.207Z",
+    "inspectionDate": "2025-07-21T11:18:13.207Z",
+    "serviceType": "Phytosanitary Certificate",
+    "commodities": [
+      {
+        "name": "Cardamom",
+        "quantity": 1000,
+        "quantityUnit": "Kgs",
+        "value": 30000,
+        "valueCurrency": "$",
+        "rejectedQuantity": 100,
+        "rejectedQuantityUnit": "Kgs"
+      },
+      {
+        "name": "Ginger",
+        "quantity": 1200,
+        "quantityUnit": "Kgs",
+        "value": 35000,
+        "valueCurrency": "$",
+        "rejectedQuantity": 10,
+        "rejectedQuantityUnit": "Kgs"
+      }
+    ],
+    "purpose": "Commercial",
+    "clientName": "Palden Exports",
+    "documentNumber": "33456",
+    "tradeCidNumber": "R2000456",
+    "contactNumber": "17241849",
+    "movementFrom": "Phuentsholing",
+    "movementTo": "Bangladesh",
+    "serviceProvider": "Sonam Tobgay",
+    "fines": 300,
+    "receiptNumber": "PA250234134656",
+    "remarks": "SAWRFGHHYYN",
+    "id": "RPT-001"
+  }
+]
